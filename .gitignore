@@ -68,6 +68,9 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# dotpzf runtime data
+.pzf
+
 # dotenv environment variables file
 .env
 .env.test
